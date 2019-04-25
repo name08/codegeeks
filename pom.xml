@@ -21,6 +21,8 @@
     <modules>
         <module>codegeeks-core</module>
         <module>codegeeks-cache</module>
+        <module>codegeeks-admin</module>
+        <module>codegeeks-security</module>
     </modules>
 
     <dependencies>
